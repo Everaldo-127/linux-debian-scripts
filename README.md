@@ -44,7 +44,6 @@ Profissionais de TI, sysadmins, devops, analistas de suporte e estudantes que tr
 
 - `Bash Shell`
 - `APT` (Advanced Packaging Tool)
-- `sed`, `awk`, `grep`, `cut` (processamento de texto)
 - `Git` para versionamento e push automático via script
 
 ## 📜 Licença
