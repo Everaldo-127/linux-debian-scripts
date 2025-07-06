@@ -13,7 +13,7 @@ Automatizar tarefas críticas de administração de sistemas, otimizando operaç
 
 ├── docs/ # Documentação técnica complementar
 
-└── README.md # Este arquivo
+└── README.md # Este arquivo contém a descrição do projeto .
 
 
 ## ⚙️ Funcionalidades
